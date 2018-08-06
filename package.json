@@ -1,10 +1,10 @@
 {
-  "name": "simple-example",
+  "name": "node-napi-visa32",
   "version": "1.0.0",
-  "description": "simple-example napi module",
+  "description": "node-napi-visa32 napi module",
   "main": "index.js",
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=8.9.1"
   },
   "gypfile": true,
   "dependencies": {
