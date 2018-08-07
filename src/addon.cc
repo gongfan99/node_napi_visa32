@@ -1,5 +1,5 @@
+#include <stdexcept>
 #include <node_api.h>
-#include <exception>
 #include "addon.h"
 
 #define napiErrChk(status) \
